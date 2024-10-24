@@ -1,0 +1,10 @@
+iframe{
+    width: 100%;
+    height: 392px;
+    display: block;
+    background-size: cover;
+    padding-bottom: 50px;
+    object-fit: cover;  
+    position: relative;
+    overflow: hidden;
+}
